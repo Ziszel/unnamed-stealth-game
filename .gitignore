@@ -1,0 +1,8 @@
+include
+lib
+bin
+.idea
+vendor/
+.vscode/
+Makefile
+.gitmodules
