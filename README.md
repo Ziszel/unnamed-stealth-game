@@ -27,5 +27,5 @@ than some systems thrown together!
 
 C++ and Raylib-CPP
 
-If you want to run it, download it and a copy of raylib-cpp-starter here on GitHub, add the Makefile and type 'make' I've only tested it
+If you want to run it, download it and a copy of raylib-cpp-starter here on GitHub, add the relevant folders (top-level include, etc...) and type 'make'. I've only tested it
 on Linux, but it should run on any system with Raylib installed.
